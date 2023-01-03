@@ -1,5 +1,4 @@
-# frozen_string_literal: true
-
+# root route for react
 class RootController < ApplicationController
   def index; end
 end
